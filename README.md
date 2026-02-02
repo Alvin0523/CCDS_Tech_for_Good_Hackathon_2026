@@ -63,7 +63,7 @@ uv sync
 ```
 source .venv/bin/activate
 ```
-You should see (ccds-tech-for-good-2026) before the working directory in your terminal
+You should see `(ccds-tech-for-good-2026)` before the working directory in your terminal
 
 #### 8. Set Up Environment Variables
 - Rename the `.env.example` file to `.env`
@@ -72,13 +72,13 @@ You should see (ccds-tech-for-good-2026) before the working directory in your te
 c72e9614a1b54c38b836046ec01ec7de
 ```
 **DO NOT** misuse this API Key<br>
-**DO NOT** push this API Key to Github
+**DO NOT** push this API Key to Github<br>
 Always ensure `.env` is included in `.gitignore` before pushing to Github
 
 #### 9. AI Models Available for Use
-- **gpt-4.1-nano**
-- **gpt-5-mini**
-- **gpt-5-nano**
+- gpt-4.1-nano
+- gpt-5-mini
+- gpt-5-nano
 
 ## Workshop Objectives
 
